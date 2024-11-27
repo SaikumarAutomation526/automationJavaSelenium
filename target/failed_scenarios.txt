@@ -1,2 +1,1 @@
 file:src/test/java/Features/serachProduct.feature:12
-file:src/test/java/Features/AddproductsToCart.feature:24:25
